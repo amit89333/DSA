@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Maximum Length Substring With Two Occurrences](./LeetCode/Easy/Maximum%20Length%20Substring%20With%20Two%20Occurrences) - *Easy*
 
 ## Arrays & Hashing
+- [Detect Capital](./LeetCode/Easy/Detect%20Capital) - *Easy*
 - [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) - *Easy*
 - [Image Smoother](./LeetCode/Easy/Image%20Smoother) - *Easy*
 - [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) - *Medium*
