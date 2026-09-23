@@ -8,6 +8,7 @@ All solved problems organized by pattern/category.
 - [Maximum Length Substring With Two Occurrences](./LeetCode/Easy/Maximum%20Length%20Substring%20With%20Two%20Occurrences) - *Easy*
 
 ## Arrays & Hashing
+- [Projection Area of 3D Shapes](./LeetCode/Easy/Projection%20Area%20of%203D%20Shapes) - *Easy*
 - [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) - *Easy*
 - [Implement Queue using Stacks](./LeetCode/Easy/Implement%20Queue%20using%20Stacks) - *Easy*
 - [Implement Stack using Queues](./LeetCode/Easy/Implement%20Stack%20using%20Queues) - *Easy*
