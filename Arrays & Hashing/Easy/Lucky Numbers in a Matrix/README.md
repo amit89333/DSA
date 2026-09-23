@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | August 20, 2026 |
+| **Solved On** | September 23, 2026 |
 | **Tags** | Array, Matrix |
 | **Link** | [View Problem](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) |
-| **Runtime** | 4 ms |
-| **Memory** | 46.8 MB |
+| **Runtime** | 2 ms |
+| **Memory** | 47 MB |
 
 ## Problem Description
 
