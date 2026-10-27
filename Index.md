@@ -8,6 +8,7 @@ All solved problems organized by pattern/category.
 - [Maximum Length Substring With Two Occurrences](./LeetCode/Easy/Maximum%20Length%20Substring%20With%20Two%20Occurrences) - *Easy*
 
 ## Arrays & Hashing
+- [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) - *Easy*
 - [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) - *Easy*
 - [Height Checker](./LeetCode/Easy/Height%20Checker) - *Easy*
 - [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) - *Easy*
