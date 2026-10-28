@@ -34,3 +34,6 @@ All solved problems organized by pattern/category.
 
 ## Two Pointers
 - [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
+
+## Linked List
+- [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) - *Easy*
