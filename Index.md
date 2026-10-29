@@ -36,5 +36,6 @@ All solved problems organized by pattern/category.
 - [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
 
 ## Linked List
+- [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) - *Easy*
 - [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) - *Easy*
 - [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) - *Easy*
