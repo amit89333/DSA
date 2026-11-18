@@ -44,4 +44,5 @@ All solved problems organized by pattern/category.
 - [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) - *Easy*
 
 ## Binary Search
+- [First Bad Version](./LeetCode/Easy/First%20Bad%20Version) - *Easy*
 - [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) - *Medium*
